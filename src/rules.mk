@@ -7,6 +7,7 @@ SRCS += temperature.c
 
 SRCS += gobius.c
 SRCS += mopeka.c
+SRCS += rotarex.c
 SRCS += ruuvi.c
 SRCS += safiery.c
 SRCS += solarsense.c
